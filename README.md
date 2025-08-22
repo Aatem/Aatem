@@ -5,7 +5,7 @@ I am a young professional interested in pursuing a career as a Python developer 
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [harchenkoart@gmail.com](mailto:harchenkoart@gmail.com)
-*   🧠  I'm learning Hexlet Python-developer
+*   🧠  I'm learning Hexlet Python-developer and QA Engineer
 *   🤝  I'm open to collaborating on interwsting projects
 
 ### Skills
