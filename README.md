@@ -1,8 +1,6 @@
 Hi 👋 My name is Artem
 ----------------------
 
-I am a young professional interested in pursuing a career as a Python developer and am on the lookout for a job.
-
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [harchenkoart@gmail.com](mailto:harchenkoart@gmail.com)
 *   🧠  I'm learning Hexlet Python-developer and QA Engineer
